@@ -1,4 +1,4 @@
-# This repository contains python projects done for practise.
+# This repository contains python projects.
 
 Project 1 - Hangman Game
 
