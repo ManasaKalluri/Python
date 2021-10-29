@@ -6,6 +6,9 @@ Objective of this project is to implement Hangman game with python. This is proj
 Hangman is a random word guessing game. Interpreter will choose randomly from a list of words provided in the program. User first has to input thier name and start the game. User will be asked to guess a letter, and if it matches any letter in the word selected it will be shown as output and the game moves forward else the program will ask user to guess another letter. This continues till correct word is guessed or maximum number of chances - 16 is reached.
 
 
+
+
+
 Project 2 - Calculating Performance Metrics without SKlearn, only using Numpy and Pandas
 
 Performance metrics (Confusion Matrix, F1 score, AUC score, Accuracy Score, Mean Square Error, MAPE, R^2 Errors) are being calculated using 4 different types of sample datasets to understand the outcome depending on dataset
